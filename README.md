@@ -14,6 +14,8 @@ This will be the topic of the final two weeks of the course, as well as the fina
 7. [Exercise 13: ]()
 8. [Hints for Exercise 13](Lesson/hints.md)
 
+\* *We will not go over these slides in class, but it is recommended that your look them over as they may be helpful in writing the final project report*.
+
 ## Resources
 - Past lesson materials
   - [Lesson 12: Viscous flows](https://github.com/Intro-Quantitative-Geology/Lesson-12-Viscous-flows)
