@@ -1,11 +1,11 @@
-# Final report for laboratory exercises 6 and 7
-The final task for this course is to write a formal scientific report about the results of Laboratory Exercises 6 and 7.
+# Final paper on Exercises 13 and 14
+The final task for this course is to write a formal scientific paper about the results of Exercises 13 and 14.
 Please use 12 pt Times New Roman (or similar) font for your report with single spacing between lines.
 The report should not be longer than 8 pages including text and figures (references and the appendix can be on additional pages, if needed).
 
-**The final report is due by 17.00 on 13.5**.
+**The final report is due by 17.00 on 23.12**.
 
-A typical research report includes the following:
+The research paper should include the following:
 
 - **Abstract**
   - A summary of the exercise and your results not longer than 250 words.
@@ -24,7 +24,7 @@ A typical research report includes the following:
   Most probably you will want to have one paragraph to describe the thermal model and another to describe how thermochronometer ages are calculated.
 - **Results (at least 1 paragraph)**
   - This part describes the results from your experiments (such as the exhumation rate that provide a minimum goodness-of-fit to the data).
-  Include selected figures from Laboratory Exercises 6 and 7.
+  Include selected figures from Exercises 13 and 14.
   You should provide figure captions and at least 1 paragraph of text that describes each figure.
   - **Note**: The results section should *only* contain observations that resulted from your experiment.
   No interpretations of the results should be included in this section.
@@ -43,7 +43,7 @@ A typical research report includes the following:
   - This should summarize the main findings of your exercise.
 - **References**
   - Include a list of cited references from your report.
-  This list should include at least 5 primary sources.
+  This list should include at least 6 primary sources.
 - **Appendices**
-  - Include a copy (copy/paste) of the Python code laboratory exercise 7 here.
+  - Include a copy (copy/paste) of the Python code Exercise 14 here.
   This can be in 8 point Courier font.
