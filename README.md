@@ -5,11 +5,11 @@ This will be the topic of the final two weeks of the course, as well as the fina
 
 ## Lesson overview
 
-1. [Lecture slides on the Basics of Thermochronology, part I](Lesson/)
-2. [Lecture slides on the Basics of Thermochronology, part II\*](Lesson/)
-3. [Lecture slides on the Basics of Thermochronology, part III\*](Lesson/)
-4. [Overview slides for Exercises 13 and 14](Lesson/)
-5. [Description of final project report](Final-report.md)
+1. [Lecture slides on the Basics of Thermochronology, part I](Lesson/Lesson-13.1-Basic-concepts-of-thermochronology.pdf)
+2. [Lecture slides on the Basics of Thermochronology, part II\*](Lesson/Lesson-13.2-Low-temperature-thermochronology.pdf)
+3. [Lecture slides on the Basics of Thermochronology, part III\*](Lesson/Lesson-13.3-Quantifying-erosion-with-thermochronology.pdf)
+4. [Overview slides for Exercises 13 and 14](Lesson/Lesson-13.4-Intro-to-thermochronology-overview.pdf)
+5. [Description of final project report](Lesson/Final-report.md)
 6. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
 7. [Exercise 13: ]()
 8. [Hints for Exercise 13](Lesson/hints.md)
