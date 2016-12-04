@@ -3,7 +3,7 @@ The final task for this course is to write a formal scientific paper about the r
 Please use 12 pt Times New Roman (or similar) font for your report with single spacing between lines.
 The report should not be longer than 8 pages including text and figures (references and the appendix can be on additional pages, if needed).
 
-**The final report is due by 17.00 on 23.12**.
+**The final paper is due by 17.00 on 23.12**.
 
 The research paper should include the following:
 
