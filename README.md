@@ -13,7 +13,7 @@ This will be the topic of the final two weeks of the course, as well as the fina
 6. [Exercise 13: Quantitative thermochronology, part I](https://classroom.github.com/assignment-invitations/b1b28d52eb9cc5daef0a15519fbee66a)
 7. [Hints for Exercise 13](Lesson/hints.md)
 
-\* *We will not go over these slides in class, but it is recommended that your look them over as they may be helpful in writing the final project report*.
+\* *We will not go over these slides in class, but it is recommended that your look them over as they may be helpful in writing the final project paper*.
 
 ## Resources
 - Past lesson materials
